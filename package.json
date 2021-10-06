@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon devTesting"
+    "dev": "nodemon devTesting",
+    "test": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
