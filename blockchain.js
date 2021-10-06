@@ -9,7 +9,7 @@ class BlockChain{
 
 //conseguir ultimo bloque
     getLastBlock(){
-        return this.chain[this.addBlock.chain.length -1]
+        return this.chain[this.chain.length -1]
     }    
 
 //agregar bloque
